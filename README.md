@@ -35,4 +35,4 @@ Proyecto desarrollado como parte de un taller práctico. Esta aplicación web co
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/explorador-videojuegos.git
+https://github.com/iFelise/ConsumoAPI_Rawg.git
